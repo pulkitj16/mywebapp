@@ -1,1 +1,3 @@
 git init			-->		Create a new repository
+
+git show		-->		Shows the abt to commit resources
